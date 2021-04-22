@@ -84,4 +84,10 @@ span {
     width: 100%;
   }
 }
+
+@media (max-width: 375px) {
+  .custom-list {
+    padding-left: 0;
+  }
+}
 /*# sourceMappingURL=main.css.map */
