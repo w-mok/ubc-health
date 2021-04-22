@@ -51,7 +51,7 @@ I was tasked to revamp the "Talk to a health professional" and "Health topics" s
   <p>I decided to use JavaScript to parse the RSS feed since I was more famililar with the language and syntax compared to PHP. While trying to write a script to parse the RSS data,
 I ran into the same problem multiple times. After doing some research, it was brought to my attention that it is a well known problem regarding CORS security when trying to retrieve data from an RSS feed. 
 I wasn't sure if that was the case for me or if I was doing something wrong. However, after doing some more digging around on Stack Overflow, I managed to find a workaround that produced the results that I needed.
-This alternative solution involves using another third party API that converts the RSS feed into JSON data. That was when I was able to parse the information that I needed to replace and populate the Health topics list.
+This alternative solution involved using another third party API that converts the RSS feed into JSON data. That was when I was able to parse the information that I needed to replace and populate the Health topics list.
 
 <br>
 <p>The second problem that I faced was populating the data that I needed into a list format. I am not sure if my solution is ideal, but I managed to produce the results I was looking for.
