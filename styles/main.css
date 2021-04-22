@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300&display=swap");
+:root {
+  --primary-color:#3d6be4;
+  --text-color:#4d4d4d;
+  --list-arrow:#ffb800;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: var(--text-color);
+}
+
+ul li {
+  padding: 5px;
+  color: var(--primary-color);
+}
+
+ul li:before {
+  font-family: "FontAwesome";
+  content: '\f054';
+  color: var(--list-arrow);
+}
+
+li p {
+  padding-left: 1.5rem;
+}
+
+p {
+  font-weight: 300;
+  color: var(--text-color);
+}
+
+h6 {
+  font-weight: 300;
+  color: var(--primary-color);
+}
+
+span {
+  font-weight: 600;
+  position: relative;
+  padding-left: 1rem;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.description {
+  font-style: italic;
+  color: var(--primary-color);
+}
+
+.semi-bold {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.box-shadow {
+  -webkit-box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.07);
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.07);
+}
+
+.card {
+  border: none;
+}
+
+.hero {
+  padding: 30px;
+  background: #f1fdfc;
+}
+
+.health-card {
+  padding: 30px;
+}
+
+.custom-list {
+  list-style: none;
+}
+
+@media (max-width: 1199px) {
+  .header-text {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=main.css.map */
