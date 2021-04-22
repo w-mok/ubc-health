@@ -56,7 +56,9 @@ This alternative solution involves using another third party API that converts t
 <br>
 <p>The second problem that I faced was populating the data that I needed into a list format. I am not sure if my solution is ideal, but I managed to produce the results I was looking for.
 In the JavaScript file, you will see on the bottom inside a for loop that I mainly used the JavaScript DOM to produce the grid system and list format. When the RSS data in JSON format is parsed and stored into an array,
-I can grab the data that I needed (title, content) while using the DOM to render out the list with populated data. 
+I can grab the data that I needed (title, content) while using the DOM to render out the list with populated data.
+<br>
+One thing I did change in this section was to make the width of the list bigger to fill up some unused white space compared the original design. I decided to make this change because I assumed that I would be working with larger pieces of content that was coming from the RSS feed. I wanted to allocate the space accordingly.
 <br>
 This solution from my point of view didn't seem ideal. I'm assuming there is an easier way but this was just my thought process and approach to the problem.
 </ul>
