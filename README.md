@@ -25,7 +25,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">UBC Take Home Assignment</h3>
+  <h3 align="center">UBC Health & Wellbeing Revamp Assignment</h3>
 
 <!-- USAGE EXAMPLES -->
 ## Overview
