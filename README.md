@@ -75,20 +75,9 @@ Poppins will look different on other web browsers (Safari, Firefox) compared to 
 ## Challenges
 
 <ul>
-  <li>Learning the Salesforce platform</li>
-  <li>Understanding Salesforce naming conventions</li>
+  <li>Debugging the RSS feed parsing</li>
+  <li>Populating RSS data into HTML that is rendered through JavaScript DOM</li>
 </ul>
-
-## Improvements
-
-<ul>
-  <li>Making a better form validation that captures all possible business use cases</li>
-  <li>Make the landing page with added security to prevent form injections</li>
-</ul>
-
-## Conclusion
-
-This was a fun a task for me to work on that showcases what I can do on the design side of web development. It also shows my ability to learn and research how to use the Salesforce platform by completing most of the requirements needed for this task.
 
 <!-- LICENSE -->
 ## License
