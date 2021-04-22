@@ -60,6 +60,7 @@ I can grab the data that I needed (title, content) while using the DOM to render
 <br>
 One thing I did change in this section was to make the width of the list bigger to fill up some unused white space compared the original design. I decided to make this change because I assumed that I would be working with larger pieces of content that was coming from the RSS feed. I wanted to allocate the space accordingly.
 <br>
+<br>
 This solution from my point of view didn't seem ideal. I'm assuming there is an easier way but this was just my thought process and approach to the problem.
 </ul>
 
