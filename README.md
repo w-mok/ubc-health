@@ -68,10 +68,6 @@ This solution from my point of view didn't seem ideal. I'm assuming there is an 
 
 </p>
 
-#### Note
-
-Poppins will look different on other web browsers (Safari, Firefox) compared to Google Chrome. Safari and Firefox will display the font in a different boldness and density.
-
 ## Challenges
 
 <ul>
